@@ -1,3 +1,5 @@
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+
 #  QrCode-Generator
 This is a simple QrCode Generator created using Vue cli. It generates the Qr Code for you to scan. It also has a History mode enabled 
 and it stores all the generated Qr Code links on the local storage for your browser.
